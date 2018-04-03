@@ -8,7 +8,7 @@ class Landing extends Component {
           <div className="navWide">
             <div className="wideDiv">
               <a href="#">Home</a>
-              <a href="#">Resume</a>
+              <a href="#">Skills</a>
               <a href="#">Projects</a>
               <a href="#">Bio</a>
             </div>
@@ -17,7 +17,7 @@ class Landing extends Component {
             <i className="fa fa-bars fa-2x" />
             <div className="narrowLinks">
               <a href="#">Home</a>
-              <a href="#">Resume</a>
+              <a href="#">Skills</a>
               <a href="#">Projects</a>
               <a href="#">Bio</a>
             </div>
@@ -32,16 +32,19 @@ class Landing extends Component {
 
           <div id="aboutBox">
             <p />
-            <a href="https://github.com/evaccaro">
+            <a href="https://github.com/evaccaro" target="_blank">
               <img src="GitHub.png" />
             </a>
-            <a href="https://www.linkedin.com/in/elisa-vaccaro-18a9429a/">
+            <a
+              href="https://www.linkedin.com/in/elisa-vaccaro-18a9429a/"
+              target="_blank"
+            >
               <img src="LinkedIn.png" />
             </a>
-            <a href="https://medium.com/@elisavaccaro">
+            <a href="https://medium.com/@elisavaccaro" target="_blank">
               <img src="Medium.png" />
             </a>
-            <a href="">
+            <a href="Resume.pdf" target="_blank">
               <img src="ResumeIcon.png" />
             </a>
 
