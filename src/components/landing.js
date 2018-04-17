@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Bio from "./bio";
 
 class Landing extends Component {
   render() {
@@ -51,6 +52,10 @@ class Landing extends Component {
             <p />
           </div>
         </div>
+        <br />
+        <br />
+        <br />
+        <Bio />
       </div>
     );
   }
