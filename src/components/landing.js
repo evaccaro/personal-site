@@ -11,7 +11,7 @@ class Landing extends Component {
               <a href="#">Home</a>
               <a href="#">Skills</a>
               <a href="#">Projects</a>
-              <a href="#">Bio</a>
+              <a href="#bio">Bio</a>
             </div>
           </div>
           <div className="navNarrow">
@@ -20,7 +20,7 @@ class Landing extends Component {
               <a href="#">Home</a>
               <a href="#">Skills</a>
               <a href="#">Projects</a>
-              <a href="#">Bio</a>
+              <a href="#bio">Bio</a>
             </div>
           </div>
         </nav>
